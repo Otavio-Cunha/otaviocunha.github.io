@@ -4,8 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. candidate at Imecc, Unicamp, Brazil.
-
+I am a Ph.D. candidate at <a href="{{page.imecc}}">IMECC</a>, <a href="{{page.unicamp}}">Unicamp</a>, Brazil.
 ## Research Interests
 
 - **Algebraic Geometry:** Shimura varieties.
