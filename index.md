@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. candidate at Universidade Estudual de Campinas - Brasil.
+I am a Ph.D. candidate at Imecc, Unicamp, Brazil.
 
 ## Research Interests
 
