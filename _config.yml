@@ -7,7 +7,7 @@ email: o204263@dac.unicamp.br
 # Search Engine Optimization (SEO)
 # The following information is used to improve the website traffic from search engines, e.g., Google.
 keywords: minimal light
-description: The Minimal Light is a simple and elegant jekyll theme for academic personal homepage.
+description: This is Otávio Cunha homepage. Here you will find my research papers and interests.
 canonical: https://minimal-light-theme.yliu.me/
 
 # Links 
@@ -32,7 +32,7 @@ auto_dark_mode: true
 
 # Font
 # You can use this option to choose between Serif or Sans Serif fonts.
-font: "Serif" # or "Sans Serif"
+
 
 # Google Analytics ID
 # Please remove this if you don't use Google Analytics
