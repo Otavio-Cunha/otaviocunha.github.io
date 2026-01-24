@@ -4,12 +4,13 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at ...
+I am a Ph.D. candidate at Universidade Estudual de Campinas - Brasil.
 
 ## Research Interests
 
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
+- **Algebraic Geometry:** Shimura varieties.
+- **Differential Geometry:** symmetric spaces.
+- **Number Theory:** transcedental numbers.
 
 ## News
 
